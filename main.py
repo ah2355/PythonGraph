@@ -25,7 +25,6 @@ result = cursor_obj.fetchall()
 cities= []
 highTemp = []
 lowTemp = []
-testList = []
 
 for i in range(len(result)):
     cities.append(result[i][0])
