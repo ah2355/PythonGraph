@@ -3,7 +3,7 @@ import psycopg2
 #environment variables
 import os
 from dotenv import load_dotenv
-load_dotenv('/home/anon_2034/PythonGraph/.env')
+load_dotenv('.env')
 #for working with json files
 import json
 #for working with graph
