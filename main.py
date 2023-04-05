@@ -4,8 +4,6 @@ import psycopg2
 import os
 from dotenv import load_dotenv
 load_dotenv('.env')
-#for working with json files
-import json
 #for working with graph
 import matplotlib.pyplot as plt
 #for using numbers
