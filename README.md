@@ -1,6 +1,8 @@
 # PythonGraph
 ***For Now This Is About Weather Report***
 
+UPDATE: Check the .env.example file to see how to format the .env file
+
 Trying  to import data (not from the file 'products.json') but from my database and show a visulization of it by a graph 
 using python
 
